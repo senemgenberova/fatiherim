@@ -1,0 +1,124 @@
+.header_1 {
+    background: #004B88;
+    color: white;
+}
+
+.item {
+    margin-right: 5px;
+}
+
+.mail {
+    margin-top: 27px;
+}
+
+.van {
+    margin-top: 27px;
+}
+
+.logo {
+    margin-top: 10px;
+}
+
+.menu {
+    margin: 35px 0 10px 0;
+}
+
+.menu ul {
+    margin: 0;
+    list-style-type: none;
+}
+
+.menu ul li {
+    display: inline-block
+}
+
+.menu ul li a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+    font-size: 19px;
+}
+
+.menu ul li a:hover {
+    color: #009cde
+}
+
+.content .slide {
+    background-image: url('../Shekiller/bg1.jpg');
+    background-size: cover;
+    width: 100%;
+    padding: 225px 0;
+}
+
+.slide .slide_text {
+    text-align: center;
+    color: white
+}
+
+.slide .slide_text p {
+    font-size: 60px;
+    margin-top: 20px;
+}
+
+.slide .slide_text p span {
+    color: #009cde
+}
+
+.ftrs {
+    padding: 80px 0;
+}
+
+.ftrs .col3 .feature {
+    text-align: center;
+    background: rgba(255, 183, 0, 0.8);
+    padding: 35px 25px;
+    margin-right: 25px;
+    color: white;
+    margin-top: -120px;
+}
+
+.feature p {
+    font-size: 30px;
+    margin: 15px 0;
+}
+
+.feature .plus {
+    margin-top: 15px;
+    font-size: 40px;
+}
+
+.team {
+    background: #F9F7F9;
+    padding: 70px 0;
+}
+
+.text_qual {
+    margin-left: 20px;
+}
+
+.text_qual p {
+    font-size: 25px;
+}
+
+.text_qual small {
+    font-size: 17px;
+}
+
+.text_qual button {
+    margin-top: 50px;
+}
+
+.experts {
+    padding: 50px 0;
+}
+
+.expert {
+    font-size: 60px;
+    color: #009cde;
+    text-align: center;
+}
+
+.experts .ex_info {
+    text-align: center;
+    background: #009cde
+}
